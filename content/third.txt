@@ -1,0 +1,3 @@
+Hello this is third file created by wirteFileSync
+Hello this the two files the first one : Hello this is the first file 
+and the second one : Hello this is the second file
